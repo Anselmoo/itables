@@ -6,6 +6,7 @@ ITables ChangeLog
 
 **Fixed**
 - We have fixed a compatibility issue with old versions of pandas
+- We added a test to make sure that timezones are preserved
 
 
 1.3.5 (2022-11-12)
