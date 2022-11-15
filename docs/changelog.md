@@ -1,6 +1,13 @@
 ITables ChangeLog
 =================
 
+1.3.6-dev (2022-11-??)
+------------------
+
+**Fixed**
+- We have fixed a compatibility issue with old versions of pandas
+
+
 1.3.5 (2022-11-12)
 ------------------
 
