@@ -1,0 +1,10 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+    "ghcr.io/devcontainers/features/anaconda:1": {},
+    "ghcr.io/devcontainers-contrib/features/black:1": {},
+    "ghcr.io/devcontainers-contrib/features/isort:1": {},
+    "ghcr.io/meaningful-ooo/devcontainer-features/fish:1": {},
+    "ghcr.io/guiyomh/features/vim:0": {}
+  }
+}
